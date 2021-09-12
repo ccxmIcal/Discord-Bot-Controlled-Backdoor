@@ -5,7 +5,7 @@
     2. Follow the steps from the comments in server.py file.
     3. Make sure you you read EVERY note from "server.py".
 
-#               HOW TO COMPILE THE CLIENT?
+#               HOW TO COMPILE THE CLIENT INTO AN EXE?
     1. Save the "client.py" file as "client.pyw" so it runs in the background(without console.)
     2. Run RUNME.bat.
     3. Open a terminal in the folder where the server and client are located.
