@@ -4,6 +4,7 @@
     1. Add a bot tokens in config.json.
     2. Follow the steps from the comments in server.py file.
     3. Make sure you you read EVERY note from "server.py".
+    4. The bot will AUTOMATICALLY get online once it recives a new connection.
 
 #               HOW TO COMPILE THE CLIENT INTO AN EXE?
     1. Save the "client.py" file as "client.pyw" so it runs in the background(without console.)
