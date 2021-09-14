@@ -13,8 +13,8 @@
     4. In the terminat type: "pyinstaller -F client.pyw"
     5. Wait for it to compile and once it is done a new folder will appear named "dist" and inside it is located your executable.
  
-#               DISCLAIMER!!!
+#               LEGAL!!!
 
-        UNDER NO CIRCUMSTANCES USE THIS FOR ILLEGAL THINGS. THIS IS SIMPLY A PROOF OF CONCENPT.
+        UNDER NO CIRCUMSTANCES USE THIS FOR ILLEGAL THINGS. THIS IS SIMPLY A PROOF OF CONCEPT. I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS SOFTWARE!! 
 
 Also school just started for me so I won't have time to post so much anymore :(
